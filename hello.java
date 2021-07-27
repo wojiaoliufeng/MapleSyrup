@@ -25,6 +25,7 @@ public class 数组练习1 {
             all+=price[j];
         }
         System.out.println("总金额     "+all);
+        System.out.println("hello");
     }
 }
 
